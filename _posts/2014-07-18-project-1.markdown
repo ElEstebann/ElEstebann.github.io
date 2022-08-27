@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: submarine.png
+img: meep.png
 alt: cabin.png
 project-date: Winter Quarter 2022
 client: Start Bootstrap
