@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 5
+title: Acid Trip 4
 date: 2022-07-14
 img: acid.png
 alt: cabin.png
@@ -9,5 +10,4 @@ client: Start Bootstrap
 category: Web Development
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 embed: <iframe frameborder="0" src="https://itch.io/embed/1435410" width="208" height="167"><a href="https://alby-albinodinosaur.itch.io/acid-trip-4-definitive-edition">Acid Trip 4 the Ballad of Leon Bradley Definitive Edition Revengeance Supreme Carnage the Valedictory Ultimatum by Alby-AlbinoDinosaur, Supernova1114, Attrakze Games, Matthew Jung, El Estebann, estuary, KStar510, artoramen, jmtuck, Deathwaffle9765</a></iframe>
-title: Acid Trip 4
 ---

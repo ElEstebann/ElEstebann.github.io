@@ -1,7 +1,8 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+title: Laserscape
+date: 2022-04-24
 img: laser.png
 alt: game.png
 project-date: April 2014
