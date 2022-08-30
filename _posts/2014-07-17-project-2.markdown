@@ -8,5 +8,5 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam. 
-embed: <iframe frameborder="0" src="https://itch.io/embed/1672394" width="552" height="167"><a href="https://cilmering.itch.io/carni-ball">Carni-Ball by Cilmering, MintJaan, El Estebann, Lenl, Optimalystic</a></iframe>
+embed: <iframe frameborder="0" src="https://itch.io/embed/1672394" width="208" height="167"><a href="https://cilmering.itch.io/carni-ball">Carni-Ball by Cilmering, MintJaan, El Estebann, Lenl, Optimalystic</a></iframe>
 ---
