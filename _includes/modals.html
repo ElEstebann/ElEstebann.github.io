@@ -23,10 +23,17 @@
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
+                                    {% if post.clientLink %}
+                                    <li>Made For:
+                                        <strong><a href="{{post.clientLink}}">{{ post.client }}</a>
+                                        </strong>
+                                    </li>
+                                    {% else %}
                                     <li>Made For:
                                         <strong>{{ post.client }}
                                         </strong>
                                     </li>
+                                    {% endif %}
                                 {% endif %}
                                 {% if post.category %}
                                 <li>Role:
