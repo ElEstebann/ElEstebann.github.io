@@ -7,6 +7,7 @@ img: dice.png
 alt: circus.png
 project-date: July 2022
 client: GMTK Game Jam 2022
+clientLink: https://itch.io/jam/gmtk-jam-2022
 category: Programmer
 description: I programmed this
 embed: <iframe frameborder="0" src="https://itch.io/embed/1618452" width="208" height="167"><a href="https://pjheric.itch.io/dice-golf">Dice Golf by pjheric, Dawdle, DragonTamer13, Aipysurus, El Estebann, JustYun, Nathan More</a></iframe>
