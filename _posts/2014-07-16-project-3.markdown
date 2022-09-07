@@ -6,8 +6,8 @@ date: 2022-07-17
 img: dice.png
 alt: circus.png
 project-date: July 2022
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: GMTK Game Jam 2022
+category: Programmer
+description: I programmed this
 embed: <iframe frameborder="0" src="https://itch.io/embed/1618452" width="208" height="167"><a href="https://pjheric.itch.io/dice-golf">Dice Golf by pjheric, Dawdle, DragonTamer13, Aipysurus, El Estebann, JustYun, Nathan More</a></iframe>
 ---
