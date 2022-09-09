@@ -4,7 +4,7 @@ modal-id: 2
 title: Carniball
 date: 2022-08-22
 img: carniball.png
-alt: cake.png
+alt: carniball-full.png
 project-date: August 2022
 client: SGDA Summer Game Jam 2022
 clientLink: https://itch.io/jam/sgda-sgj-2022
