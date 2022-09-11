@@ -9,6 +9,11 @@ project-date: Winter Quarter 2022
 client: VGDC at UCI
 clientLink: https://itch.io/jam/vgdc-at-uci-winter-2022-games
 category: Producer / Programmer
-description: I produced this game.
+description: Acid Trip 4 was a quarterly project that had diffuculty getting off the ground. The team originally began work in Fall of 2021, but I wasn't brought on until the beginning of 2022. Without a dedicated producer, the team struggled to get much done during the quarter. 
+
+During my time on the team, I lead a team of 10 students to actualize all of the game's goals. I set healthy and achievable goals for the team to pursue each week and displayed progress about the game in a mix of Google Spreadsheets and Trello boards. Since the large team had issues meeting all at the same time, I mediated ideas over multiple team meetings to ensure all team members understood the direction of the game. 
+
+While most of my work on this game was in producing it, I also contributed to the game by importing and polishing UI assets and animations. I integrated the existing dialogue system to accomodate changing sprites and sound effects. 
+
 embed: <iframe frameborder="0" src="https://itch.io/embed/1435410" width="208" height="167"><a href="https://alby-albinodinosaur.itch.io/acid-trip-4-definitive-edition">Acid Trip 4 the Ballad of Leon Bradley Definitive Edition Revengeance Supreme Carnage the Valedictory Ultimatum by Alby-AlbinoDinosaur, Supernova1114, Attrakze Games, Matthew Jung, El Estebann, estuary, KStar510, artoramen, jmtuck, Deathwaffle9765</a></iframe>
 ---
