@@ -18,8 +18,14 @@
                             {% if post.embed %}
                             {{post.embed}}
                             {% endif %}
-                            {% if post.description %}
-                                <p>{{ post.description }}</p>
+                            {% if post.description1 %}
+                                <p>{{ post.description1 }}</p>
+                            {% endif %}
+                            {% if post.description2 %}
+                                <p>{{ post.description2 }}</p>
+                            {% endif %}
+                            {% if post.description3 %}
+                                <p>{{ post.description3 }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
