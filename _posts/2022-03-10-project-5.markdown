@@ -9,6 +9,6 @@ project-date: Winter Quarter 2022
 client: VGDC at UCI
 clientLink: https://itch.io/jam/vgdc-at-uci-winter-2022-games
 category: Producer / Programmer
-description: test
+description: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa abbbbbbbbbbbbbbbbbbbbbbbbbbbbb aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  ggg gggggg
 embed: <iframe frameborder="0" src="https://itch.io/embed/1435410" width="208" height="167"><a href="https://alby-albinodinosaur.itch.io/acid-trip-4-definitive-edition">Acid Trip 4 the Ballad of Leon Bradley Definitive Edition Revengeance Supreme Carnage the Valedictory Ultimatum by Alby-AlbinoDinosaur, Supernova1114, Attrakze Games, Matthew Jung, El Estebann, estuary, KStar510, artoramen, jmtuck, Deathwaffle9765</a></iframe>
 ---
