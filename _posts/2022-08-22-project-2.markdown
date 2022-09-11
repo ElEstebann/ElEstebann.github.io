@@ -10,5 +10,5 @@ client: SGDA Summer Game Jam 2022
 clientLink: https://itch.io/jam/sgda-sgj-2022
 category: Programmer
 description: I programmed this
-embed: <iframe frameborder="0" src="https://itch.io/embed/1672394" width="111" height="40"><a href="https://cilmering.itch.io/carni-ball">Carni-Ball by Cilmering, MintJaan, El Estebann, Lenl, Optimalystic</a></iframe>
+embed: <iframe frameborder="0" src="https://itch.io/embed/1672394" width="208" height="167"><a href="https://cilmering.itch.io/carni-ball">Carni-Ball by Cilmering, MintJaan, El Estebann, Lenl, Optimalystic</a></iframe>
 ---
