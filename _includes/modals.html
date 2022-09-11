@@ -15,8 +15,8 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.alt }}" class="img-responsive img-centered" alt="{{ post.img }}">
-                            {% if post.link %}
-                            <button type="submit" class="btn btn-lg" href="{{post.link}}">Send</button>
+                            {% if post.embed %}
+                            {{post.embed}}
                             {% endif %}
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
