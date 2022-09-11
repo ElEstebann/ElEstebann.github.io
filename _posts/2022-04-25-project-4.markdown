@@ -10,5 +10,5 @@ client: California Collegiate Game Jam
 clientLink: https://itch.io/jam/california-collegiate-jam
 category: Lead Programmer
 description: I programmed this
-embed: <iframe frameborder="0" src="https://itch.io/embed/1500937" width="208" height="167"><a href="https://elestebann.itch.io/laserscape">LaserScape by El Estebann, zfxd, stubbelj, chograph, innominev3945</a></iframe>
+embed: <iframe frameborder="0" src="https://itch.io/embed/1500937" width="111" height="40"><a href="https://elestebann.itch.io/laserscape">LaserScape by El Estebann, zfxd, stubbelj, chograph, innominev3945</a></iframe>
 ---

@@ -9,5 +9,5 @@ project-date: Spring Quarter 2022
 client: UCI GDIM 61
 category: UI-UX
 description: I made the UI for this
-embed: <iframe frameborder="0" src="https://itch.io/embed/1552188" width="208" height="167"><a href="https://charliethecoder.itch.io/meeps-maintenance">Meep's Maintenance by CharlietheCoder, eiviy, namank100, ninjadare, El Estebann, JDioso17, MirrorCube, Zaney, Stratagist, Riifushi</a></iframe>
+embed: <iframe frameborder="0" src="https://itch.io/embed/1552188" width="111" height="40"><a href="https://charliethecoder.itch.io/meeps-maintenance">Meep's Maintenance by CharlietheCoder, eiviy, namank100, ninjadare, El Estebann, JDioso17, MirrorCube, Zaney, Stratagist, Riifushi</a></iframe>
 ---
