@@ -4,7 +4,7 @@ modal-id: 4
 title: Laserscape
 date: 2022-04-24
 img: laser.png
-alt: laser-full.png
+alt: laser.gif
 project-date: April 2022
 client: California Collegiate Game Jam
 clientLink: https://itch.io/jam/california-collegiate-jam
