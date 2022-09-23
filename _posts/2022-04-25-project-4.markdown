@@ -9,6 +9,6 @@ project-date: April 2022
 client: California Collegiate Game Jam
 clientLink: https://itch.io/jam/california-collegiate-jam
 category: Lead Programmer
-description: I programmed this
+description: I was the lead programmer for this 2D laser puzzle game. I implemented the core gameplay of using pushable objects and a reflectable laser to solve puzzle rooms. 
 embed: <iframe frameborder="0" src="https://itch.io/embed/1500937" width="208" height="167"><a href="https://elestebann.itch.io/laserscape">LaserScape by El Estebann, zfxd, stubbelj, chograph, innominev3945</a></iframe>
 ---
