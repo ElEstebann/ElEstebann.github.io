@@ -8,6 +8,7 @@ alt: meep-full.png
 project-date: Spring Quarter 2022
 client: UCI GDIM 61
 category: UI-UX
-description: I made the UI for this
+description1: This is a game made for GDIM 61 - Introduction to Game Development done over 8 weeks. With a team of 12, we created a task management game where a ghost must tidy-up a home without being seen by it's homeowners. 
+description2: I worked on the UI elements of this game. I created scripts to create indicators pointing to important tasks and the navigable menus. All sound was also implemented by me. 
 embed: <iframe frameborder="0" src="https://itch.io/embed/1552188" width="208" height="167"><a href="https://charliethecoder.itch.io/meeps-maintenance">Meep's Maintenance by CharlietheCoder, eiviy, namank100, ninjadare, El Estebann, JDioso17, MirrorCube, Zaney, Stratagist, Riifushi</a></iframe>
 ---

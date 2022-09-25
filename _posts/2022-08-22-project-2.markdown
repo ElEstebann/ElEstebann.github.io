@@ -9,6 +9,7 @@ project-date: August 2022
 client: SGDA Summer Game Jam 2022
 clientLink: https://itch.io/jam/sgda-sgj-2022
 category: Programmer
-description: I programmed this
+description1: I was the sole programmer on this 1 week gamejam game. In this game, 4 players or AI opponents fight in a deadly game of dodgeball. A player must take out all of their opponents by throwing the jack-o-lantern at them. Once a player is out, they can possess nearby objects to disrupt the game by interrupting players' throws. When a player is knocked out, all of the players they have knocked out are brought back alive.  
+description2: Over this week, I wrote a flexible player controller configured for multiplayer and AI. I also implemented all sound and battle UI elements. I honestly put a bit too more time into battle text animations, but I really liked how they ended up. Overall I spent a healthy amount of time on this gamejam and got everything we planned implemented.
 embed: <iframe frameborder="0" src="https://itch.io/embed/1672394" width="208" height="167"><a href="https://cilmering.itch.io/carni-ball">Carni-Ball by Cilmering, MintJaan, El Estebann, Lenl, Optimalystic</a></iframe>
 ---
