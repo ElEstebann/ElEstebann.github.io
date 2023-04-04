@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 6
+title: Best Nest Quest
+date: 2022-11-28
+img: bnq.png
+alt: bnq.png
+project-date: Fall Quarter 2022
+client: VGDC at UCI
+clientLink: https://itch.io/jam/vgdc-at-uci-fall-2022-games
+category: Producer
+description1: todo
+description2: todo
+embed: <iframe frameborder="0" src="https://itch.io/embed/1796947" width="208" height="167"><a href="https://aizin.itch.io/best-nest-quest">Best Nest Quest by Aizin, El Estebann, cupcakebox, KohakuHero, Christian Pena</a></iframe>
+---
