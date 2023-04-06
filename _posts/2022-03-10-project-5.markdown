@@ -3,8 +3,8 @@ layout: default
 modal-id: 5
 title: Acid Trip 4
 date: 2022-03-10
-img: acid.png
-alt: acid-alternate.gif
+img: acid-alternate.png
+alt: acid.gif
 project-date: Winter Quarter 2022
 client: VGDC at UCI
 clientLink: https://itch.io/jam/vgdc-at-uci-winter-2022-games
