@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 title: Carniball
 date: 2022-08-22
-img: carniball.png
+img: carniball-alternate.png
 alt: carniball-full.png
 project-date: August 2022
 client: SGDA Summer Game Jam 2022

@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 title: Dice Golf
 date: 2022-07-17
-img: dice.png
+img: dice-alternate.png
 alt: dice-full.png
 project-date: July 2022
 client: GMTK Game Jam 2022

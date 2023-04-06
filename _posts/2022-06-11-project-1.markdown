@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: Meep's Maintenance
 date: 2022-06-11
-img: meep.png
+img: meep-alternate.png
 alt: meep-full.png
 project-date: Spring Quarter 2022
 client: UCI GDIM 61
