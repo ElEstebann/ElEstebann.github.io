@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 6
+title: Zot Racer
+date: 2023-03-14
+img: zr.png
+alt: zr.png
+project-date: Winter Quarter 2023
+client: VGDC at UCI
+clientLink: https://itch.io/jam/vgdc-at-uci-winter-2023-games
+category: Producer, Programmer
+description1: todo
+description2: todo
+embed: <iframe frameborder="0" src="https://itch.io/embed/1965171" width="208" height="167"><a href="https://elestebann.itch.io/zot-racer">Zot Racer by El Estebann, Charlie Xu, Cole Young, Dev Patel, Naman Khurana, wozzyb, jmtuck, Gabriela A. Lopez</a></iframe>
+---
