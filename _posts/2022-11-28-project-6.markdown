@@ -9,7 +9,9 @@ project-date: Fall Quarter 2022
 client: VGDC at UCI
 clientLink: https://itch.io/jam/vgdc-at-uci-fall-2022-games
 category: Producer
-description1: todo
-description2: todo
+description1: Best Nest Quest was a quarter long project pitched for VGDC @ UCI's Fall game showcase. I was assigned as the producer for this project for a team of nine students to create a 2D platformer in Gamemaker Studio 2. This project allowed me to practice modifying production frameworks to handle issues along the way.
+description2: Over the course of this project's development, I encountered new production issues that required personalized modifications to our Scrum framework. Great imbalances of experience within the team required the creation of support programmer roels who would assist the more experienced programmers however they could during their weekly sprints. 
+description3: In this project I also was responsible for operations such as playtesting, presentation, and some level design.
+
 embed: <iframe frameborder="0" src="https://itch.io/embed/1796947" width="208" height="167"><a href="https://aizin.itch.io/best-nest-quest">Best Nest Quest by Aizin, El Estebann, cupcakebox, KohakuHero, Christian Pena</a></iframe>
 ---
