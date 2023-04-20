@@ -9,7 +9,8 @@ project-date: Winter Quarter 2023
 client: VGDC at UCI
 clientLink: https://itch.io/jam/vgdc-at-uci-winter-2023-games
 category: Producer, Programmer
-description1: todo
-description2: todo
+description1: Zot Racer was a game that I pitched for the VGDC Winter Game Showcase. I assembled a team of 8 programmers and designers who all wanted further experience with Unreal Engine 5.
+description2: As the team lead, I managed the source control for our project by creating a Perforce server using a dedicated Linux server in my apartment. I also  created a omnidirectional track design tool, implemented UI elements, implemented visual effects, and implemented most of the sound assets.
+description3: Since the goal of this project was to gain experience with Unreal Engine, I helped team members learn the engine by being a resource for them to learn from. I answered questions on how to navigate the Unreal Editor and I found documentation for important classes and functions team members might need. I also became more familiar with the engine through this project.
 embed: <iframe frameborder="0" src="https://itch.io/embed/1965171" width="208" height="167"><a href="https://elestebann.itch.io/zot-racer">Zot Racer by El Estebann, Charlie Xu, Cole Young, Dev Patel, Naman Khurana, wozzyb, jmtuck, Gabriela A. Lopez</a></iframe>
 ---
