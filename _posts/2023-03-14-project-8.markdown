@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 8
+title: Pemberton Shift
+date: 2024
+img: Pemberton.png
+alt: Pemberton.png
+project-date: Now
+client: Solo
+clientLink: 
+category: Programmer
+description1: D1
+description2: D2
+description3: D3
+embed: 
+---
