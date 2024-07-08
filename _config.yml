@@ -4,8 +4,8 @@ email: f/xjvzkayd
 url: esteban.games
  
 #"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-description: "Esteban Aldana: Videogame Programmer and Producer."
-keywords: "Software, Engineer, Game, Games, Developer, Producer, Programmer, Videogame Developer, Game Producer, Videogame Producer, Videogame Programmer, videogames, professional"
+description: "Esteban Aldana: Videogame Developer and Producer."
+keywords: "Software, Engineer, Game, Games, Developer, Producer, Programmer, Videogame Developer, Game Producer, Videogame Producer, Videogame Programmer, videogames, professional, Esteban, Esteban Aldana, Aldana"
 skills: "Software Developer & Game Producer"
 meta_author: Esteban Aldana
 
@@ -59,7 +59,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Southern California
+  - line: Los Angeles, California
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
