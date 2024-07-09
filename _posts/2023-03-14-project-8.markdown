@@ -9,8 +9,8 @@ project-date: Now
 client: Solo
 clientLink: 
 category: Programmer
-description1: D1
-description2: D2
-description3: D3
+description1: Under Construction
+description2: 
+description3: 
 embed: 
 ---
