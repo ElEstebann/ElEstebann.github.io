@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 title: Pemberton Shift
-date: 2024
+date: 2024-01-01
 img: Pemberton.png
 alt: Pemberton.png
 project-date: Now
