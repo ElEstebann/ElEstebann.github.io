@@ -5,12 +5,12 @@ title: Pemberton Shift
 date: 2024-01-01
 img: Pemberton.png
 alt: Pemberton.png
-project-date: Now
-client: Solo
+project-date: January 2024 - Current
+client: Pemberton Shift Team
 clientLink: 
 category: Programmer
-description1: Under Construction
-description2: 
+description1: Pemberton Shift is a survival horror game being developed by a team of 5 UCI alumni in Unreal Engine 5. Evade extradimensional horrors by utilizing the power of a watch that allows you to traverse between dimensions.
+description2: Though development in this project is still early, you can be sure to be able to find out more soon!
 description3: 
 embed: 
 ---

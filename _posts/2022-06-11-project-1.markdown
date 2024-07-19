@@ -5,7 +5,7 @@ title: Meep's Maintenance
 date: 2022-06-11
 img: meep-alternate.png
 alt: meep-full.png
-project-date: Spring Quarter 2022
+project-date: March 2022 - June 2022
 client: UCI GDIM 61
 category: UI-UX
 description1: This is a game made for GDIM 61 - Introduction to Game Development done over 8 weeks. With a team of 12, we created a task management game where a ghost must tidy-up a home without being seen by it's homeowners. 

@@ -5,7 +5,7 @@ title: Best Nest Quest
 date: 2022-11-28
 img: bnq-alternate.png
 alt: bnq-full.png
-project-date: Fall Quarter 2022
+project-date: September 2022 - December 2022
 client: VGDC at UCI
 clientLink: https://itch.io/jam/vgdc-at-uci-fall-2022-games
 category: Producer
